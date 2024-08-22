@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
